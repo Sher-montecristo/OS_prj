@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Main {
 
-    public static int array_size = 20;
+    public static int array_size = 100;
 	
 	public static int[] readArray(String filename){
 		int[] array = new int[array_size];
